@@ -1,0 +1,25 @@
+{
+  "name": "vue_nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-import": "^1.9.1",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "muse-ui": "^3.0.1",
+    "muse-ui-toast": "^0.3.0",
+    "nuxt": "^2.2.0"
+  }
+}
